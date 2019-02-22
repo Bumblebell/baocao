@@ -1,0 +1,23 @@
+.body{
+border: 1px solid silver;
+background:#BBBBBB;
+}
+
+
+.anh1{
+    text-align: center;
+}
+
+.tieude1{
+    text-align: center;
+    margin-top:40px;
+}
+
+.anh1{
+    margin-right: 25px;
+}
+
+.b1{
+    margin-left: 70px;
+    margin-right: 70px;          
+}

@@ -1,0 +1,13 @@
+.col{
+    background: #BBBBBB;
+}
+
+.bai1{
+    text-align: justify;
+    text-indent: 30px;
+}
+
+.row{
+    max-width: 1400px;
+    margin: auto;
+}
